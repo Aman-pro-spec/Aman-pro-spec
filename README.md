@@ -5,6 +5,7 @@
 ### 🚀 About Me
 
 </div>
+
 - "🔭 I’m curently working on DL Project.
 - 🌱 I'm currently learning *Generative AI, MLOps, and Deep Learning architectures.*
 - 🤝 I'm looking for help with *Optimizing large-scale ML pipelines.*
