@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 </div>
-
+- "Detail-oriented Computer Science undergraduate (Batch 2026) with strong technical proficiency in Java, Python, and SQL. Passionate about Software Quality Assurance (QA) and ensuring product reliability.
 - "🔭 I’m curently working on DL Project.
 - 🌱 I'm currently learning *Generative AI, MLOps, and Deep Learning architectures.*
 - 🤝 I'm looking for help with *Optimizing large-scale ML pipelines.*
