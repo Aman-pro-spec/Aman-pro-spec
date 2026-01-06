@@ -6,7 +6,7 @@
 
 </div>
 
-- "🔭 I’m curently working on DL Project.
+- "🔭 I’m curently working on ML Project.
 - 🌱 I'm currently learning *Generative AI, MLOps, and Deep Learning architectures.*
 - 🤝 I'm looking for help with *Optimizing large-scale ML pipelines.*
 - 💬 Ask me about *Machine Learning, Data Analysis (EDA), Python, and Flask.*
