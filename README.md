@@ -25,7 +25,7 @@
 
 <div align="center">
   <h3>🔥 My Coding Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-pro-spec&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aman-pro-spec&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
