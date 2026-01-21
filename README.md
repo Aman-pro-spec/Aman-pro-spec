@@ -12,7 +12,7 @@
 - 💬 Ask me about *Machine Learning, Data Analysis (EDA), Python, and Flask.*
 - 📫 Contact me: *connectwithmeaman8299@gmail.com*
 - ⚡ Fun fact: *I can debug code faster than I can finish my coffee. ☕*
-- 📄 **[View My Resume](https://drive.google.com/file/d/1mJLHsKBRKUN9K-g0ax2h5R2ARj7gpzig/view?usp=drivesdk)**
+- 📄 **[View My Resume]("C:\Users\amand\Downloads\Aman_Resume (2).pdf")**
 
 ---
 
