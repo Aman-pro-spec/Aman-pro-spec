@@ -24,7 +24,15 @@
 
 <div align="center">
   <h3>🔥 My Coding Streak</h3>
-  <img src="https://streak-stats.demolab.com?user=Aman-pro-spec&theme=radical" alt="GitHub Streak" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-pro-spec&show_icons=true&theme=radical&cache_seconds=1800" alt="Aman's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-pro-spec&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="160" />
+</p>
+
+<h3 align="center">My Coding Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-pro-spec&theme=radical" alt="GitHub Streak" />
+</p>
 </div>
 
 ---
